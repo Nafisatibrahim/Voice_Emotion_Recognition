@@ -9,6 +9,13 @@ and uses a pre-trained **speech emotion recognition model** from Hugging Face to
 ## 🚀 Live Demo
 👉 [Try it on Streamlit Cloud](https://voicy--nafisat-ibrahim.streamlit.app)
 
+## 🎬 Demo Video
+
+Here’s a quick demo of **Voicy** detecting emotions from speech:
+
+https://github.com/Nafisatibrahim/Voice_Emotion_Recognition/assets/your-github-id/your-video-id
+
+
 ---
 
 ## 🧠 Overview
