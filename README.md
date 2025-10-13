@@ -13,15 +13,10 @@ and uses a pre-trained **speech emotion recognition model** from Hugging Face to
 
 Here’s a quick demo of **Voicy: Voice Emotion Detection** in action 🎙️👇  
 
-https://github.com/Nafisatibrahim/Voice_Emotion_Recognition/issues/1#issue-3508423815
+<video src="https://private-user-images.githubusercontent.com/135756896/500352996-a315aced-93da-4a21-acc0-e278c27ec58f.mp4" controls width="700">
+  Your browser does not support the video tag.
+</video>
 
-https://github.com/Nafisatibrahim/Voice_Emotion_Recognition/blob/main/voicy-voice-emotion-detection-demo.mp4
-
-<p align="center">
-  <video src="[https://github.com/Nafisatibrahim/Voice_Emotion_Recognition/assets/12345678/abcdef123456](https://github.com/Nafisatibrahim/Voice_Emotion_Recognition/issues/1#issue-3508423815)" controls width="700">
-    Your browser does not support the video tag.
-  </video>
-</p>
 
 ---
 
