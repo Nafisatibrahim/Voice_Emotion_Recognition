@@ -11,9 +11,11 @@ and uses a pre-trained **speech emotion recognition model** from Hugging Face to
 
 ## 🎬 Demo Video
 
-Here’s a quick demo of **Voicy** detecting emotions from speech:
+Here’s a quick demo of **Voicy: Voice Emotion Detection** in action 🎙️👇  
 
-[https://github.com/Nafisatibrahim/Voice_Emotion_Recognition/assets/your-github-id/your-video-id](https://github.com/Nafisatibrahim/Voice_Emotion_Recognition/blob/main/voicy-voice-emotion-detection-demo.mp4)
+<video src="https://github.com/Nafisatibrahim/Voice_Emotion_Recognition/blob/main/voicy-voice-emotion-detection-demo.mp4" controls="controls" width="700">
+Your browser does not support the video tag.
+</video>
 
 
 ---
