@@ -14,11 +14,14 @@ and uses a pre-trained **speech emotion recognition model** from Hugging Face to
 Here’s a quick demo of **Voicy: Voice Emotion Detection** in action 🎙️👇  
 
 https://github.com/Nafisatibrahim/Voice_Emotion_Recognition/issues/1#issue-3508423815
-https://private-user-images.githubusercontent.com/135756896/500352996-a315aced-93da-4a21-acc0-e278c27ec58f.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjAzMzA0NTEsIm5iZiI6MTc2MDMzMDE1MSwicGF0aCI6Ii8xMzU3NTY4OTYvNTAwMzUyOTk2LWEzMTVhY2VkLTkzZGEtNGEyMS1hY2MwLWUyNzhjMjdlYzU4Zi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAxM1QwNDM1NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMjFkM2VhMzJiYWYyZDZiNmMyNGFiNjVlMjY4NDc2ZWM0NmVjYjExMTI5MjEzMTJlNmQwNTM1MWFiODM3OGY2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Nsxt51tbP4ynQpq0v_a2vXtnQxXlVV0-U_xrfkvo1V0
 
 https://github.com/Nafisatibrahim/Voice_Emotion_Recognition/blob/main/voicy-voice-emotion-detection-demo.mp4
 
-
+<p align="center">
+  <video src="[https://github.com/Nafisatibrahim/Voice_Emotion_Recognition/assets/12345678/abcdef123456](https://github.com/Nafisatibrahim/Voice_Emotion_Recognition/issues/1#issue-3508423815)" controls width="700">
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 ---
 
