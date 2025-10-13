@@ -14,7 +14,7 @@ and uses a pre-trained **speech emotion recognition model** from Hugging Face to
 Here’s a quick demo of **Voicy: Voice Emotion Detection** in action 🎙️👇  
 
 https://github.com/Nafisatibrahim/Voice_Emotion_Recognition/blob/main/voicy-voice-emotion-detection-demo.mp4
-
+https://github.com/Nafisatibrahim/Voice_Emotion_Recognition/issues/1#issue-3508423815
 
 
 ---
