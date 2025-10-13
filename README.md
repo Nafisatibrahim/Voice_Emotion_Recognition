@@ -27,6 +27,28 @@ Here’s a quick demo of **Voicy: Voice Emotion Detection** in action 🎙️�
   <em>🎞️ Scene: “We’re too late.” → Emotion detected: Sad (63%)</em>
 </div>
 
+## 🎬 Demo Video
+
+Here’s a quick demo of **Voicy: Voice Emotion Detection** in action 🎙️👇  
+
+<div align="center">
+
+  <video 
+    src="https://private-user-images.githubusercontent.com/135756896/500352996-a315aced-93da-4a21-acc0-e278c27ec58f.mp4"
+    controls
+    muted
+    loop
+    width="700"
+    style="border-radius:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    Your browser does not support the video tag.
+  </video>
+
+  <br><br>
+
+  <em>🎞️ Scene: “We were too late.” — Dory & Marlin, <strong>Finding Nemo (2003)</strong>  
+  Detected emotion: <strong>Sad (63%)</strong></em>
+
+</div>
 
 
 
