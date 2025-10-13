@@ -14,24 +14,6 @@ and uses a pre-trained **speech emotion recognition model** from Hugging Face to
 Here’s a quick demo of **Voicy: Voice Emotion Detection** in action 🎙️👇  
 
 <div align="center">
-  <video 
-    src="https://private-user-images.githubusercontent.com/135756896/500352996-a315aced-93da-4a21-acc0-e278c27ec58f.mp4"
-    controls
-    muted
-    loop
-    width="700"
-    style="border-radius:10px;">
-    Your browser does not support the video tag.
-  </video>
-  <br>
-  <em>🎞️ Scene: “We’re too late.” → Emotion detected: Sad (63%)</em>
-</div>
-
-## 🎬 Demo Video
-
-Here’s a quick demo of **Voicy: Voice Emotion Detection** in action 🎙️👇  
-
-<div align="center">
 
   <video 
     src="https://private-user-images.githubusercontent.com/135756896/500352996-a315aced-93da-4a21-acc0-e278c27ec58f.mp4"
@@ -94,6 +76,8 @@ HuBERT learns hidden units from speech without needing manual labels and achieve
 | **Matplotlib** | Plotting waveform and spectrogram |
 | **Transformers** | Hugging Face model pipeline |
 | **Torch** | Backend for model inference |
+
+<P>🤖 Model powered by <a href="https://huggingface.co/superb/hubert-large-superb-er"><strong>HuBERT (superb/hubert-large-superb-er)</strong></a> — a speech emotion recognition model by <a href="https://huggingface.co/superb">Hugging Face SUPERB</a>.</sub>
 
 ---
 
