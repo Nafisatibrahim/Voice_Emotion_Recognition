@@ -86,5 +86,5 @@ HuBERT learns hidden units from speech without needing manual labels and achieve
 Clone this repository:
 
 ```bash
-git clone https://github.com/<your-username>/Voice_Emotion_Recognition.git
+git clone https://github.com/Nafisatibrahim/Voice_Emotion_Recognition.git
 cd Voice_Emotion_Recognition
